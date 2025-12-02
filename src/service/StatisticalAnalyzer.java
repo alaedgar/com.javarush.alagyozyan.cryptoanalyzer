@@ -1,4 +1,4 @@
-package util;
+package service;
 
 public class StatisticalAnalyzer {
     public int findMostLikelyShift(String encryptedText,

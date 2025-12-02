@@ -1,8 +1,6 @@
 import util.CommandLineInterface;
 
-import java.util.Scanner;
-
-public class CaesarCipher {
+public class CaesarCypher {
     public static void main(String[] args) {
         CommandLineInterface cli = new CommandLineInterface();
         cli.startApp();
