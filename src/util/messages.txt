@@ -5,3 +5,8 @@ D   Decrypt text from file
 B   Encrypt text from file (Using brute force method)
 H   Show this help message
 Q   Exit from the application""";
+
+\n****************************************************
+*** Welcome to the 'Caesar Cypher' application ! ***
+****************************************************\n
+Please enter [ H ] to see all available menu options.""";
