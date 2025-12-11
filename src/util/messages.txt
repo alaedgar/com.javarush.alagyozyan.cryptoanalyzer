@@ -8,4 +8,4 @@ Q   Exit from the application""";
 \n****************************************************
 *** Welcome to the 'Caesar Cypher' application ! ***
 ****************************************************\n
-Please enter [ H ] to see all available menu options."""
+Please enter [ H ] to see all available menu options.
